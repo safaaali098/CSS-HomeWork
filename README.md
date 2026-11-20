@@ -1,14 +1,9 @@
-body {
-    color: green;
-}
 
-h1 {
-    color: pink;
 <html>
   <head>
   </head>
   <body>
-    <h1> A VERY STYLISH PAGE </h1>
+    <h1> My First CSS Page! </h1>
     <p> Welcome to the beginning of my first CSS Page... We are also creating a separate page to style the paragraphs on this page </p>
   
   </body>
