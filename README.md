@@ -1,4 +1,9 @@
-<html>
+<html>body {
+    color: green;
+}
+
+h1 {
+    color: pink;
   <head>
   </head>
   <body>
