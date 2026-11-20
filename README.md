@@ -4,6 +4,12 @@ body {
 
 h1 {
     color: pink;
-}
-
-/* Follow this link for a listing of colors:  https://www.w3schools.com/cssref/css_colors.asp  */
+<html>
+  <head>
+  </head>
+  <body>
+    <h1> A VERY STYLISH PAGE </h1>
+    <p> Welcome to the beginning of my first CSS Page... We are also creating a separate page to style the paragraphs on this page </p>
+  
+  </body>
+</html>
