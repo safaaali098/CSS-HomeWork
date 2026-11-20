@@ -1,4 +1,3 @@
-
 <html>
   <head>
   </head>
@@ -8,17 +7,13 @@
   
   </body>
 </html>
-
-
-body {background-color: red;}
-
 <!DOCTYPE html>
 <html>
 <head>
 <style>
   /* Change the entire page background */
   body {
-    background-color: #f0f4f8; /* Light blue-gray */
+    background-color: #f0f4f8; /* pink */
   }
 
   /* Change a specific section's background */
