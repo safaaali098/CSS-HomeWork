@@ -8,6 +8,6 @@
   
   </body>
 </html>
-body {
-background-color: red;
-}
+body 
+{background-color: red;}
+
