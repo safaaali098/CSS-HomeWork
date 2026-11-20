@@ -1,6 +1,6 @@
-  <head>
+  <head> color pink
   </head>
-  <body>
+  <body> color: green
     <h1> My very first CSS Page! </h1>
     <p> Welcome to the beginning of my first CSS Page... We are also creating a separate page to style the paragraphs on this page </p>
   
