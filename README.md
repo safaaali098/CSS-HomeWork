@@ -7,6 +7,6 @@
   
   </body>
 </html>
-  pink background color
+  
   
 
