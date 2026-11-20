@@ -1,7 +1,6 @@
-/* This is how you create a comment in CSS, they look different than html */
-
-body { font-family: Georgia; color: #C0C0C0; background-color: #FF0000;}
-
-/* The code below modifies all the content within the <h1> tags */
-
-h1 { font-family: Helvetica; color: #2096ba; }
+body { hello
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  color: #333333;
+  margin: 0;
+  padding: 20px;
