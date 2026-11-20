@@ -7,5 +7,5 @@
   
   </body>
 </html>
-
+  50%  { background-color: #a1c4fd; }
 
