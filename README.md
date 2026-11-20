@@ -1,8 +1,9 @@
-  <head> 
- 
-  
-    <h1> My very first CSS Page! </h1>
-    <p> Welcome to the beginning of my first CSS Page... We are also creating a separate page to style the paragraphs on this page </p>
-  
-  </body>
-</html>
+body {
+    color: green;
+}
+
+h1 {
+    color: pink;
+}
+
+/* Follow this link for a listing of colors:  https://www.w3schools.com/cssref/css_colors.asp  */
